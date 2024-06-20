@@ -9,17 +9,17 @@ const players = [
     PONTOS: 0,
   },
   {
-    NOME: "Luigi",
-    VELOCIDADE: 3,
-    MANOBRABILIDADE: 4,
-    PODER: 4,
-    PONTOS: 0,
-  },
-  {
     NOME: "Peach",
     VELOCIDADE: 3,
     MANOBRABILIDADE: 4,
     PODER: 2,
+    PONTOS: 0,
+  },
+  {
+    NOME: "Yoshi",
+    VELOCIDADE: 2,
+    MANOBRABILIDADE: 4,
+    PODER: 3,
     PONTOS: 0,
   },
   {
@@ -30,10 +30,10 @@ const players = [
     PONTOS: 0,
   },
   {
-    NOME: "Yoshi",
-    VELOCIDADE: 2,
+    NOME: "Luigi",
+    VELOCIDADE: 3,
     MANOBRABILIDADE: 4,
-    PODER: 3,
+    PODER: 4,
     PONTOS: 0,
   },
   {
