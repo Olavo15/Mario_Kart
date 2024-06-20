@@ -101,3 +101,6 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+<h1>Apos Baixar, execute o comando abaixo:</h1>
+<p>node src/index.js </p>
